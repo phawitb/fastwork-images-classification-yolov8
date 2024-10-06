@@ -1,0 +1,1 @@
+# fastwork-images-classification-yolov8
